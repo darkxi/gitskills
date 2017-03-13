@@ -2,4 +2,4 @@
 
 lalala~~
 
-Creating a new branch is quick AAA.
+Creating a new branch is quick BBB.
